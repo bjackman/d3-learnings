@@ -1,0 +1,8 @@
+svg .axis path {
+    stroke: teal;
+    shape-rendering: crispEdges;
+}
+
+p {
+    font-family: sans;
+}

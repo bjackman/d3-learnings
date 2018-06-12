@@ -1,0 +1,8 @@
+svg circle.pumpkin {
+    fill: yellow;
+    stroke: orange;
+}
+
+svg rect.bar {
+    fill: teal;
+}
